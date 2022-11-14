@@ -1,0 +1,10 @@
+{
+  "appId": "com.example.app",
+  "appName": "client",
+  "webDir": "dist",
+  "bundledWebRuntime": false,
+  "server": {
+    "hostname": "192.168.1.11"
+  }
+  
+}
